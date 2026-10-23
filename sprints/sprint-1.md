@@ -2,7 +2,7 @@
 
 Six stories for this week. Each has sub-tasks, reading, questions to think about, and a stretch goal. Pick a story on Monday morning, and pair where the story says so. Everything is due Friday, Oct 30, at the demo.
 
-This sprint is week 1 of the [demo plan](01-demo-plan.md).
+This sprint is week 1 of the [demo plan](../plan/demo-plan.md). Track it in Linear: [Community Cloud project](https://linear.app/dwosi/project/community-cloud-993f857dfbfd), label **Sprint 1**.
 
 ## Contents
 
@@ -231,7 +231,17 @@ Building the basic version of each piece is the easy part, and it's not where yo
 
 ## Linear setup
 
-- **Project:** Community Cloud, cycle Oct 26 to Oct 30.
-- **Issues:** each story is a parent issue with its sub-tasks as sub-issues, left unassigned so people pick on Monday.
+- **Project:** [Community Cloud](https://linear.app/dwosi/project/community-cloud-993f857dfbfd) in the DWOSI workspace, team COM, Oct 26 to Oct 30.
+- **Issues:** each story is a parent issue with its sub-tasks as sub-issues, left unassigned so people pick on Monday. Every issue has the **Sprint 1** label.
+
+| Story | Linear |
+|---|---|
+| 1. Contracts and local setup | [COM-48](https://linear.app/dwosi/issue/COM-48) |
+| 2. Accounts, orgs and the context selector | [COM-56](https://linear.app/dwosi/issue/COM-56) |
+| 3. A provider machine joins with a key | [COM-65](https://linear.app/dwosi/issue/COM-65) |
+| 4. Deploy a Docker image and reach it at a public URL | [COM-73](https://linear.app/dwosi/issue/COM-73) |
+| 5. Credits, usage and billing from events | [COM-82](https://linear.app/dwosi/issue/COM-82) |
+| 6. One dashboard | [COM-91](https://linear.app/dwosi/issue/COM-91) |
+
 - **Description:** each story's goal, done-when, reading and questions go in the issue description.
 - **Labels:** contracts, accounts, capacity, deployments, billing, web.
