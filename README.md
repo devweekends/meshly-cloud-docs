@@ -2,6 +2,11 @@
 
 Documentation for Meshly Cloud, a community cloud built by [Dev Weekends](https://github.com/devweekends).
 
+## Read in this order
+
+1. [Demo plan](01-demo-plan.md): the four-week plan, demo script, roles, architecture and who builds what
+2. [Sprint 1 stories](02-sprint-1-stories.md): the six stories for Oct 26 to Oct 30
+
 ## Repositories
 
 | Repo | What it holds |
