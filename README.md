@@ -2,10 +2,33 @@
 
 Documentation for Meshly Cloud, a community cloud built by [Dev Weekends](https://github.com/devweekends).
 
-## Read in this order
+The docs are split by what they're for:
 
-1. [Demo plan](01-demo-plan.md): the four-week plan, demo script, roles, architecture and who builds what
-2. [Sprint 1 stories](02-sprint-1-stories.md): the six stories for Oct 26 to Oct 30
+| Folder | What's in it | Changes when |
+|---|---|---|
+| [system/](system/overview.md) | How Meshly Cloud works: the agreed design from our discussions | We change the design |
+| [plan/](plan/demo-plan.md) | The four-week demo plan: demo script, who builds what, timeline | The plan changes |
+| [sprints/](sprints/README.md) | Each week's stories, tasks, reading and questions | Every week |
+
+## System
+
+Read in this order:
+
+1. [Overview](system/overview.md): what it is, roles and accounts, core terms
+2. [Architecture](system/architecture.md): the diagram, public URLs and tunnels, rules, the strategy pattern
+3. [Services](system/services.md): accounts, capacity, deployments, billing, and how they talk
+4. [Reliability and fraud](system/reliability.md): validation, resilience, fraud checks
+5. [Dashboard](system/dashboard.md): pages, owners, who sees what
+6. [Repos](system/repos.md): what lives where and how repos depend on each other
+7. [Stack](system/stack.md): the tools we picked
+
+## Plan
+
+- [Demo plan](plan/demo-plan.md)
+
+## Sprints
+
+- [Sprint 1](sprints/sprint-1.md): Oct 26 to Oct 30, tracked in [Linear](https://linear.app/dwosi/project/community-cloud-993f857dfbfd)
 
 ## Repositories
 
